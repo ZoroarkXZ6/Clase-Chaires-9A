@@ -1,8 +1,10 @@
 public class Clase1 {
 
-	string dato1 = "abc";
-	string dato1 = "def";
-	string dato1 = "ghi";
-	string dato1 = "jkl";
+	string dato1 = "abc"; //commit1
+	string dato1 = "def"; //commit2
+	string dato1 = "ghi"; //commit3
+	string dato1 = "jkl"; //commit4
+
+	int numero = 123; // Experimental1
 
 }
