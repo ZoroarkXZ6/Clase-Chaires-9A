@@ -1,5 +1,8 @@
 public class Clase1 {
 
 	string dato1 = "abc";
+	string dato1 = "def";
+	string dato1 = "ghi";
+	string dato1 = "jkl";
 
 }
